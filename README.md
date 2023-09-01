@@ -1,8 +1,8 @@
-# Energy-Data-Analysis-Visualization-and-Outlier-Detection
+# Energy Data Analysis Visualization and Outlier Detection Using the Julia Programming Language
 
 Dataset
 
-The dataset (“households-24hrs.tsv”) It is a Tab Separated Values (TSV) file that contain the power consumption records of 241 households measured every 30 minutes over 24 hours. Note the format of the spreadsheet: each household makes a column of 48 entries. 
+The dataset (“households-24hrs.tsv”) is a Tab Separated Values (TSV) file that contains the power consumption records of 241 households measured every 30 minutes over 24 hours. Note the format of the spreadsheet: each household makes a column of 48 entries. 
 
 Project Tasks
 
